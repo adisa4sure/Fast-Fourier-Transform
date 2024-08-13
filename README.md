@@ -1,1 +1,2 @@
-This project describes Fast Fourier Treansform using Cooley-Tukey FFT algorithm. The motivation stems out from which 
+This project describes the Fast Fourier Transform using the Cooley-Tukey FFT algorithm. The motivation stems from finding a faster way to beat the Karatsuba Algorithm for high-degree polynomial multiplication.
+The algorithm is implemented and compared to other algorithms regarding execution times.
